@@ -6,6 +6,6 @@
 
 |Content         | Name          | Author            | Status            |Language           |Description|
 |----------------|---------------|-------------------|-------------------|-------------------|-----------|
-|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />|Head first - Java| Kathy Sierra| In Progress | EN-US|Head First Java is a complete learning experience in Java and object-oriented programming.|
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />|Head first - Java| Kathy Sierra| <p align="center">:arrow_right: </p> | EN-US|Head First Java is a complete learning experience in Java and object-oriented programming.|
 
           
