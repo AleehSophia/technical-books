@@ -6,6 +6,5 @@
 
 |Content         | Name          | Author            | Status            |Language           |Description|
 |----------------|---------------|-------------------|-------------------|-------------------|-----------|
-|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />|Head first - Java| Kathy Sierra| <p align="center">:arrow_right: </p> | EN-US|Head First Java is a complete learning experience in Java and object-oriented programming.|
-
-          
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />|Head first - Java| Kathy Sierra|<p align="center">:arrow_right: </p>| EN-US|Head First Java is a complete learning experience in Java and object-oriented programming.|
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />|You don't know JS|Kyle Simpson|<p align="center">:soon: </p>|EN-US|Javascript fundamentals.|          
